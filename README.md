@@ -1,5 +1,7 @@
 <h2 align="center">Hi there 👋, My name is Andrey Barinov</h2>
-<h3>I am studying the programming language on the hexlet platform. I am looking for a company or an open source project where I can apply and improve my skills.</h3>
+<h3>I am learning the python programming language on <a href="https://ru.hexlet.io/u/andrewb" alt="link to the profile in the hexlet">the hexlet platform</a>. I am looking for a company or an open source project where I can apply and improve my skills.</h3>
+
+
 
 <b>Languages and Tools:</b><br/><br/>
      [![My Skills](https://skillicons.dev/icons?i=py,git,ubuntu,html,css)](https://skillicons.dev)<br/><br/>
