@@ -1,5 +1,8 @@
-###<h1 align="center">Hi there 👋, My name is Andrey Barinov</h1>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h2 align="center">Hi there 👋, My name is Andrey Barinov</h2>
+
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: BarBpro89@gmail.com 
+[![My Skills]<a href="https://git-scm.com/" target="_blank" rel="noreferrer">(https://skillicons.dev/icons?i=py, ubuntu,html,css)](https://skillicons.dev)
 <!--
 **Andrey-Barinov/Andrey-Barinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
