@@ -8,7 +8,7 @@
 <b>Additional education:</b><br/>
 Two-month frontend courses on the basis of which I created my first website(80% - HTML, CSS, JS, 20% - PHP, MariaDB)<br/><br/>
 📫 How to reach me: BarBpro89@gmail.com <br/><br/>
-<b>a little bit about yourself:</b><br/><br/>
+<b>a little bit about myself:</b><br/><br/>
 The level of English proficiency is B1.
 I lead an active lifestyle. I do sports (cycling, winter sports).
 I try to develop both personally and professionally.
