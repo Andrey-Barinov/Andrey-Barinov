@@ -1,4 +1,4 @@
-### Hi there 👋
+###<h1 align="center">Hi there 👋, My name is Andrey Barinov</h1>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **Andrey-Barinov/Andrey-Barinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
