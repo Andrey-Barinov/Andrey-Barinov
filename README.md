@@ -3,14 +3,18 @@
 
 
 <b>Languages and Tools:</b><br/><br/>
-     [![My Skills](https://skillicons.dev/icons?i=py,django,flask,postgres,html,css,git,ubuntu)](https://skillicons.dev)<br/><br/>
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,postgres,html,css,git,ubuntu)](https://skillicons.dev)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Barinov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
 <b>Additional education:</b><br/>
 Two-month frontend courses on the basis of which I created my first website(80% - HTML, CSS, JS, 20% - PHP, MySQL)<br/><br/>
-📫 How to reach me: BarBpro89@gmail.com <br/><br/>
+📫 How to reach me:<br/><br/> 
+BarBpro89@gmail.com <br/><br/>
+<a href="https://t.me/AndreyBarinov1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a><br/><br/>
 <b>a little bit about myself:</b><br/><br/>
 The level of English proficiency is B1.
 I lead an active lifestyle. I do sports (cycling, winter sports).
 I try to develop both personally and professionally.
+
 <!--
 **Andrey-Barinov/Andrey-Barinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
