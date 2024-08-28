@@ -3,7 +3,7 @@
 
 
 <b>Languages and Tools:</b><br/><br/>
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,postgres,html,css,git,ubuntu)](https://skillicons.dev)<br/><br/>
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,postgres,postman,html,css,git,ubuntu)](https://skillicons.dev)<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Barinov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
 <b>Additional education:</b><br/>
 Two-month frontend courses on the basis of which I created my first website(80% - HTML, CSS, JS, 20% - PHP, MySQL)<br/><br/>
